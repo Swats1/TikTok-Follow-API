@@ -2,7 +2,6 @@
 
 ⚡ High‑quality TikTok Android Private API implementation  
 ⚡ Built for modern TikTok versions (43.x+)  
-⚡ Clean structure – no algorithm modifications
 
 ---
 
