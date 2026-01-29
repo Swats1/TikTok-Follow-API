@@ -3,9 +3,7 @@ import requests
 from hashlib import md5
 from urllib.parse import urlencode
 
-from Gorgon import Gorgon
-from Argus import Argus
-from Ladon import Ladon
+from Wsign import Gorgon,Argus,Ladon
 
 
 # ===================== SIGN =====================
